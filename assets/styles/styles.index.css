@@ -16,11 +16,18 @@
     align-items: center;
     justify-content: center;
 }
+
 .nav-items{
     display: flex;
     justify-content: flex-end;
     background-color: none;
     padding-right: 6rem;
+}
+.hero-img{
+    width: 50rem;
+    height: 32rem;
+    border-radius: 1.5rem;
+    border: 6px solid #000000;
 }
 .services-card{
     width: 40%;
@@ -35,7 +42,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    gap: 2rem;
 }
 .services-img{
     width: 100%;
+    border-radius: 0.5rem;
+}
+.card{
+    border: 3px solid #000000;
+    border-radius: 1rem;
+}
+.produtos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
