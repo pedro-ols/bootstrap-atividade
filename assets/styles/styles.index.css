@@ -59,3 +59,22 @@
     justify-content: center;
     flex-direction: column;
 }
+.galeria-img{
+    height: 20rem;
+    width: auto;
+}
+.gallery-pics-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.galeria{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
