@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: none;
+}
+.icon-container{
+    height: 100%;
+    width: 10%;
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-items{
+    display: flex;
+    justify-content: flex-end;
+    background-color: none;
+    padding-right: 6rem;
+}
+.services-card{
+    width: 40%;
+}
+.servicos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services-img{
+    width: 100%;
+}
