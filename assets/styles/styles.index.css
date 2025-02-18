@@ -62,6 +62,8 @@
 .galeria-img{
     height: 20rem;
     width: auto;
+    
+    border-radius: 0.3rem;
 }
 .gallery-pics-container{
     display: flex;
@@ -91,6 +93,17 @@
     height: 12rem;
 }
 .depoimentos{
+    width: 70%;
+    margin-left: 15%;
+}
+.forms{
+    background-color: #222020;
+    color: aliceblue;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 3rem;
+}
+.forms-container{
     width: 70%;
     margin-left: 15%;
 }
